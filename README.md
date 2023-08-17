@@ -8,7 +8,7 @@ This is a instructional step by step process to building a functional **Azure Se
 My purpose for this lab is to learn more about Security Monitoring and Detection Engineering.
 
 # Virtual Machines / Tools
-This lab consists of:
+This lab consists of virtual machines created within the Azure Cloud:
 
   ~ **Windows 10** ~ This windows machine will be made vulnerable acting as a honey pot.
 
