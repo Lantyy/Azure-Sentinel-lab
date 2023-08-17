@@ -1,5 +1,7 @@
 # Azure-Sentinel-lab
 
+![Title](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/5af6a030-c3ce-4fa8-ab6f-7d7c1c3b1cfe)
+
 # This Project
 This is a instructional step by step process to building a functional **Azure Sentinel lab** for defensive security acting as a honey pot.
 
