@@ -1,6 +1,4 @@
 # Azure-Sentinel-lab
-# About Me
-Hi! I'm Miles. 
 
 # This Project
 This is a instructional step by step process to building a functional **Azure Sentinel lab** for defensive security acting as a honey pot.
