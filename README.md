@@ -10,9 +10,9 @@ My purpose for this lab is to learn more about Security Monitoring and Detection
 # Virtual Machines / Tools
 This lab consists of virtual machines created within the Azure Cloud:
 
-  ~ **Windows 10** ~ This windows machine will be made vulnerable acting as a honey pot.
+  ~ **Windows 10** ~ This Windows machine will be made vulnerable acting as a honey pot.
 
-  ~ **Log Analytics Workspace** ~ This will be the log repository used to ingest logs from the Windows VM.
+  ~ **Log Analytics Workspace** ~ This will be the log repository used to ingest logs from the Windows VM, then sent to the SIEM (Sentinel).
 	
   ~ **Azure Sentinel** ~ This is a SIEM used to display & map the attacker data on a geographic world map.
 	
