@@ -20,12 +20,12 @@ This lab consists of virtual machines created within the Azure Cloud:
 ![Azure lab topology](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/39cb1d35-4c1d-4c2e-8e7f-a6f595aa9886)
 
 # Lab Creation Steps
-  ~ s
-  ~ s
-  ~ s 
-  ~ s
-  ~ s 
-  ~ s
-  ~ s 
-  ~ s
-  ~ s
+  ~ 
+  ~ 
+  ~  
+  ~ 
+  ~  
+  ~ 
+  ~  
+  ~ 
+  ~ 
