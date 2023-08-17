@@ -29,3 +29,7 @@ This lab consists of virtual machines created within the Azure Cloud:
   ~  
   ~ 
   ~ 
+
+  # Lab Conclusion
+
+  This lab was created by Josh Madakor, I followed the steps used in his YouTube video to create and replicate this lab. Link - https://www.youtube.com/watch?v=RoZeVbbZ0o0
