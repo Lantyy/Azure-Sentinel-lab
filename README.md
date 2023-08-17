@@ -26,4 +26,4 @@ This lab consists of:
 
 
 # Network Design
-![Topology](Azure lab topology.jpg)
+![Topology][([Azure lab topology.jpg](https://github.com/Lantyy/Azure-Sentinel-lab/blob/f6465eaa1bbcccc7a7b705c0eeeddb0885317a99/Azure%20lab%20topology.jpg)https://github.com/Lantyy/Azure-Sentinel-lab/blob/f6465eaa1bbcccc7a7b705c0eeeddb0885317a99/Azure%20lab%20topology.jpg)](https://github.com/Lantyy/Azure-Sentinel-lab/blob/f6465eaa1bbcccc7a7b705c0eeeddb0885317a99/Azure%20lab%20topology.jpg)https://github.com/Lantyy/Azure-Sentinel-lab/blob/f6465eaa1bbcccc7a7b705c0eeeddb0885317a99/Azure%20lab%20topology.jpg
