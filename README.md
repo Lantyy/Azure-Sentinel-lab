@@ -22,3 +22,4 @@ This lab consists of:
 
 
 # Network Design
+![Azure lab topology](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/39cb1d35-4c1d-4c2e-8e7f-a6f595aa9886)
