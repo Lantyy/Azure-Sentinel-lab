@@ -14,8 +14,6 @@ This lab consists of:
 	
   ~ **pfsense:** This will be the firewall for controlling inbound and outbound traffic, only accessible and visible in the VM private network.
 	
-  ~ **Security Onion:** This will be the all-in-one IDS, Security Monitoring and Log Management solution.
-	
   ~ **Splunk:** This is an additional SIEM that will be used in addition and comparison to Kibana on Security Onion.
 	
   ~ **Windows DC:** This is a windows domain controller that will have two windows machines connected to it.
@@ -26,4 +24,3 @@ This lab consists of:
 
 
 # Network Design
-[![Topology]](https://github.com/Lantyy/Azure-Sentinel-lab/blob/52e7f69bb609269f35fac12f7980db602ad726b1/Azure%20lab%20topology.jpg)
