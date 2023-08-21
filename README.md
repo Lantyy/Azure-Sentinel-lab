@@ -51,13 +51,33 @@ Implemented a custom PowerShell script from Github to look up the attackers geol
 ![Screenshot 2023-08-20 (8)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/9f4fb38b-07bc-4e24-9796-befc012b1d08)
 
 
+Created a 'custom log' within Log Analytics Workspace to bring in the custom log
+![Screenshot 2023-08-20 (9)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/ccf2681f-6c42-4b81-b7b2-f331a1a80a7c)
 
 
-  ~ 
-  ~  
-  # Lab Conclusion
+Implemented custom fields/extract fields from raw custom log data.
+![Screenshot 2023-08-20 (10)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/a6262f74-cc9d-488b-8550-bb5bcd2a1702)
+
+
+Created a "workspace" in Sentinel and filtered the dashboard to plot the failed Remote Desktop login attempts on map by Latitude and Longitude.
+![Screenshot 2023-08-20 (11)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/3fbc5a93-9421-405c-a41a-703390ad11d6)
+
+
+**Final Map Check**
+TBD
+
+
+  # Lab Final Thoughts & Takeaways
+
+In creating and deploying this lab I learned ```
+
+
+
+
 
 Credit: This lab was created by Josh Madakor, I followed the steps used in his YouTube video to create and replicate this lab. 
-Link - https://www.youtube.com/watch?v=RoZeVbbZ0o0
-Github Script used - https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1
+
+~ Lab YouTube Link - https://www.youtube.com/watch?v=RoZeVbbZ0o0
+
+~ GitHub Script used - https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1
   
