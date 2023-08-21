@@ -68,7 +68,7 @@ Created a "workspace" in Sentinel and filtered the dashboard to plot the failed 
 
 
 # Lab Thoughts & Takeaways
-In creating and deploying this lab I learned that the internet is a very volatile place. Bots/hackers will stop at nothing to access host computer's data. Even to the extent to Brute Force attack a computer that they may never gain access to. Keeping a strong password, restricting RDP access and keeping a Firewall up to date is paramount to keeping a network secure as aging firewalls present a security risk for an environment. Also, SIEMs (Microsoft Sentinel in this case) can be a very useful tool to display raw data to a readable and presentable format. This can be a great tool to gain more incite for everyday Security Analyst threat detection efforts.
+In creating and deploying this lab I learned that the internet is a very volatile place. Bots/hackers will stop at nothing to access host computer's data. Even to the extent to Brute Force attack a computer that they may never gain access to. Keeping a strong password control policy, restricting RDP access and keeping a Firewall up to date is paramount to keeping a network secure. Also, SIEMs (Microsoft Sentinel in this case) can be a very useful tool to display raw data to a readable and presentable format. This can be a great tool to gain more incite for everyday Security Analyst threat detection efforts.
 
 Credit: This lab was created by Josh Madakor, I followed the steps used in his YouTube video to create and replicate this lab. 
 
