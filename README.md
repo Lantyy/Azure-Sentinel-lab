@@ -63,12 +63,11 @@ Created a "workspace" in Sentinel and filtered the dashboard to plot the failed 
 ![Screenshot 2023-08-20 (11)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/3fbc5a93-9421-405c-a41a-703390ad11d6)
 
 
-#Final Map Check
-![Screenshot 2023-08-21 (12)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/0f7e1d0c-9b4a-497b-a28e-b1ff0523b90e)
+# Final Map Check
+![Screenshot 2023-08-21 (12)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/420a4429-7042-413d-abd7-3dcee57b9b31)
 
 
-
-# Lab Final Thoughts & Takeaways
+# Lab Thoughts & Takeaways
 In creating and deploying this lab I learned that the internet is a very volatile place. Bots/hackers will stop at nothing to access host computer's data. Even to the extent to Brute Force attack a computer that they may never gain access to. Keeping a strong password, restricting RDP access and keeping a Firewall up to date is paramount to keeping a network secure as aging firewalls present a security risk for an environment. Also, SIEMs (Microsoft Sentinel in this case) can be a very useful tool to display raw data to a readable and presentable format. This can be a great tool to gain more incite for everyday Security Analyst threat detection efforts.
 
 Credit: This lab was created by Josh Madakor, I followed the steps used in his YouTube video to create and replicate this lab. 
