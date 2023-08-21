@@ -15,18 +15,18 @@ This lab consists of virtual machines created within the Azure Cloud:
   ~ **Log Analytics Workspace** ~ This will be the log repository used to ingest logs from the Windows VM, then sent to the SIEM (Sentinel).
 	
   ~ **Azure Sentinel** ~ This is a SIEM used to display & map the attacker data on a geographic world map.
-	
+
 # Network Design
 ![Azure lab topology](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/39cb1d35-4c1d-4c2e-8e7f-a6f595aa9886)
 
+
 # Lab Creation Steps
 
-
-Created a Windows 10 'honeypot' Virtual Machine within Portal.Azure 
+Created a Windows 10 'honeypot' Virtual Machine within the Azure portal.
 ![Screenshot 2023-08-20 (1)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/c5603f8a-306d-45f7-ad36-65c2616e7654)
 
 
-Created a Log Analytics Workspace within Portal.Azure
+Created a Log Analytics Workspace within the Azure portal.
 ![Screenshot 2023-08-20 (2)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/c6c42d27-d51d-4f62-9451-402b44b65dff)
 
 
@@ -51,11 +51,11 @@ Implemented a custom PowerShell script from Github to look up the attackers geol
 ![Screenshot 2023-08-20 (8)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/9f4fb38b-07bc-4e24-9796-befc012b1d08)
 
 
-Created a 'custom log' within Log Analytics Workspace to bring in the custom log
+Created a 'custom log' within Log Analytics Workspace to bring in the custom logs.
 ![Screenshot 2023-08-20 (9)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/ccf2681f-6c42-4b81-b7b2-f331a1a80a7c)
 
 
-Implemented custom fields/extract fields from raw custom log data.
+Implemented custom fields/extract fields from the raw custom log data.
 ![Screenshot 2023-08-20 (10)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/a6262f74-cc9d-488b-8550-bb5bcd2a1702)
 
 
@@ -67,13 +67,8 @@ Created a "workspace" in Sentinel and filtered the dashboard to plot the failed 
 TBD
 
 
-  # Lab Final Thoughts & Takeaways
-
-In creating and deploying this lab I learned ```
-
-
-
-
+# Lab Final Thoughts & Takeaways
+In creating and deploying this lab I learned that the internet is a very volatile place. Bots/hackers will stop at nothing to access host computer's data. Even to the extent to Brute Force attack a computer that they may never gain access to. Keeping a strong password, restricting RDP access and keeping a Firewall up to date is paramount to keeping a network secure as aging firewalls present a security risk for an environment. Also, SIEMs (Microsoft Sentinel in this case) can be a very useful tool to display raw data to a readable and presentable format. This can be a great tool to gain more incite for everyday Security Analyst threat detection efforts.
 
 Credit: This lab was created by Josh Madakor, I followed the steps used in his YouTube video to create and replicate this lab. 
 
