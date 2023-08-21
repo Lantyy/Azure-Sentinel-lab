@@ -63,7 +63,7 @@ Created a "workspace" in Sentinel and filtered the dashboard to plot the failed 
 ![Screenshot 2023-08-20 (11)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/3fbc5a93-9421-405c-a41a-703390ad11d6)
 
 
-Final Map Check
+#Final Map Check
 ![Screenshot 2023-08-21 (12)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/0f7e1d0c-9b4a-497b-a28e-b1ff0523b90e)
 
 
