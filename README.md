@@ -64,7 +64,8 @@ Created a "workspace" in Sentinel and filtered the dashboard to plot the failed 
 
 
 **Final Map Check**
-TBD
+![Screenshot 2023-08-21 (12)](https://github.com/Lantyy/Azure-Sentinel-lab/assets/122828853/0f7e1d0c-9b4a-497b-a28e-b1ff0523b90e)
+
 
 
 # Lab Final Thoughts & Takeaways
